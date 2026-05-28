@@ -1,0 +1,315 @@
+Brand,processor_brand,processor_series,processor_tier,ram,storage,screen_size,display_type,gpu_brand,gpu_model,vram,prices
+Lenovo,Intel,Core Ultra,7,32,1TB,16,WQXGA,Integrated,Integrated,0,214999
+Dell,Intel,Core,7,16,1TB,16,WQXGA,Integrated,Integrated,0,159990
+Acer,AMD,Ryzen,3,8,512GB,15.6,FHD,Integrated,Integrated,0,52599
+Samsung,Intel,Core Ultra,7,16,512GB,16,WUXGA,Integrated,Integrated,0,131990
+Samsung,Intel,Core Ultra,5,16,512GB,16,WUXGA,Integrated,Integrated,0,123990
+Samsung,Intel,Core Ultra,7,16,512GB,16,WUXGA,Integrated,Integrated,0,127990
+Samsung,Intel,Core Ultra,7,16,512GB,14,WUXGA,Integrated,Integrated,0,124990
+Samsung,Intel,Core Ultra,5,16,512GB,14,WUXGA,Integrated,Integrated,0,112990
+Lenovo,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,123999
+Lenovo,Intel,Core i,i5,16,512GB,15.3,WUXGA,Integrated,Integrated,0,71499
+Lenovo,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,121999
+Lenovo,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,97499
+Asus,Intel,Core,3,8,512GB,15.6,FHD,Integrated,Integrated,0,53990
+Asus,Intel,Core Ultra,5,16,512GB,14,FHD+,Integrated,Integrated,0,81990
+HP,Intel,Core,5,16,512GB,15.6,FHD,Integrated,Integrated,0,69599
+HP,Intel,Core Ultra,7,24,1TB,16,2K,Integrated,Integrated,0,154999
+Asus,Intel,Core Ultra,9,32,1TB,14,FHD+,Integrated,Integrated,0,145990
+Asus,AMD,Ryzen,7,16,512GB,16,WQXGA,Integrated,Integrated,0,108990
+Asus,AMD,Ryzen AI,5,16,512GB,14,FHD+,Integrated,Integrated,0,61990
+HP,Intel,Core Ultra,7,24,1TB,14,FHD,Integrated,Integrated,0,89999
+HP,Intel,Core,5,24,512GB,15.6,FHD,Integrated,Integrated,0,94426
+Samsung,Intel,Core Ultra,7,32,1TB,14,WQXGA+,Integrated,Integrated,0,291190
+Samsung,Intel,Core Ultra,7,32,1TB,14,WQXGA+,Integrated,Integrated,0,204990
+Samsung,Intel,Core Ultra,7,16,512GB,14,WQXGA+,Integrated,Integrated,0,178990
+Lenovo,Intel,Core i,i7,16,512GB,15.3,WUXGA,Integrated,Integrated,0,78999
+Dell,Intel,Core,3,8,512GB,15.6,FHD,Integrated,Integrated,0,49999
+HP,AMD,Ryzen,5,16,512GB,14,FHD,Integrated,Integrated,0,51999
+Dell,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,84999
+Acer,Intel,Core,5,16,512GB,15.6,FHD,Integrated,Integrated,0,60599
+Lenovo,Intel,Core Ultra,7,32,1TB,16,WQXGA,Integrated,Integrated,0,214999
+Dell,Intel,Core,7,16,1TB,16,WQXGA,Integrated,Integrated,0,159990
+Acer,AMD,Ryzen,3,8,512GB,15.6,FHD,Integrated,Integrated,0,52599
+Samsung,Intel,Core Ultra,7,16,512GB,16,WUXGA,Integrated,Integrated,0,131990
+Samsung,Intel,Core Ultra,5,16,512GB,16,WUXGA,Integrated,Integrated,0,123990
+Samsung,Intel,Core Ultra,7,16,512GB,16,WUXGA,Integrated,Integrated,0,127990
+Samsung,Intel,Core Ultra,7,16,512GB,14,WUXGA,Integrated,Integrated,0,124990
+Samsung,Intel,Core Ultra,5,16,512GB,14,WUXGA,Integrated,Integrated,0,112990
+Lenovo,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,123999
+Lenovo,Intel,Core i,i5,16,512GB,15.3,WUXGA,Integrated,Integrated,0,71499
+Lenovo,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,121999
+Lenovo,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,97499
+Asus,Intel,Core,3,8,512GB,15.6,FHD,Integrated,Integrated,0,53990
+Asus,Intel,Core Ultra,5,16,512GB,14,FHD+,Integrated,Integrated,0,81990
+HP,Intel,Core,5,16,512GB,15.6,FHD,Integrated,Integrated,0,69599
+HP,Intel,Core Ultra,7,24,1TB,16,2K,Integrated,Integrated,0,154999
+Asus,Intel,Core Ultra,9,32,1TB,14,FHD+,Integrated,Integrated,0,145990
+Asus,AMD,Ryzen,7,16,512GB,16,WQXGA,Integrated,Integrated,0,108990
+Asus,AMD,Ryzen AI,5,16,512GB,14,FHD+,Integrated,Integrated,0,61990
+HP,Intel,Core Ultra,7,24,1TB,14,FHD,Integrated,Integrated,0,89999
+HP,Intel,Core,5,24,512GB,15.6,FHD,Integrated,Integrated,0,94426
+Samsung,Intel,Core Ultra,7,32,1TB,14,WQXGA+,Integrated,Integrated,0,291190
+Samsung,Intel,Core Ultra,7,32,1TB,14,WQXGA+,Integrated,Integrated,0,204990
+Samsung,Intel,Core Ultra,7,16,512GB,14,WQXGA+,Integrated,Integrated,0,178990
+Lenovo,Intel,Core i,i7,16,512GB,15.3,WUXGA,Integrated,Integrated,0,78999
+Dell,Intel,Core,3,8,512GB,15.6,FHD,Integrated,Integrated,0,49999
+HP,AMD,Ryzen,5,16,512GB,14,FHD,Integrated,Integrated,0,51999
+Dell,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,84999
+Acer,Intel,Core,5,16,512GB,15.6,FHD,Integrated,Integrated,0,60599
+Asus,AMD,Ryzen,5,16,512GB,15.6,FHD,Integrated,Integrated,0,48990
+HP,AMD,Ryzen,5,16,512GB,15.6,FHD,Integrated,Integrated,0,54999
+HP,Intel,Core,5,24,512GB,15.6,FHD,Integrated,Integrated,0,68499
+Lenovo,Intel,Core i,i7,16,1TB,15.6,Full HD,Integrated,Integrated,0,154999
+Lenovo,AMD,Ryzen,7,16,1TB,15.6,FHD,Integrated,Integrated,0,139999
+HP,AMD,Ryzen,3,8,512GB,15.6,Full HD,Integrated,Integrated,0,48499
+HP,Intel,Core i,i3,8,512GB,15.6,Full HD,Integrated,Integrated,0,57999
+Dell,Intel,Core,3,8,512GB,15.6,FHD,Integrated,Integrated,0,49990
+HP,Intel,Core,3,24,512GB,15.6,FHD,Integrated,Integrated,0,52990
+HP,Intel,Core,5,16,512GB,14,FHD,Integrated,Integrated,0,63990
+Dell,Intel,Core Ultra,7,16,512GB,14,2.5K,Integrated,Integrated,0,101999
+Lenovo,Intel,Core i,i5,16,512GB,15.3,WUXGA,Integrated,Integrated,0,72999
+ASUS,AMD,Ryzen,9,16,1TB,16,FHD+,NVIDIA,RTX 5050,0,173990
+Lenovo,AMD,Ryzen,5,16,512GB,15.6,Full HD,Integrated,Integrated,0,53999
+HP,AMD,Ryzen,7,16,1TB,15.6,FHD,Integrated,Integrated,0,91499
+Dell,Intel,Core i,i5,16,1TB,15.6,FHD,Integrated,Integrated,0,74999
+HP,Intel,Core Ultra,5,24,1TB,15.6,FHD,Integrated,Integrated,0,77499
+ASUS,Intel,Core,5,16,512GB,15.6,Full HD,Integrated,Integrated,0,68990
+HP,Intel,Core i,i5,24,512GB,15.6,FHD,Integrated,Integrated,0,89999
+ASUS,Intel,Core,5,16,512GB,16,Full HD,NVIDIA,RTX 3050,6,88990
+HP,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,85499
+Dell,Intel,Core Ultra,5,16,512GB,14,FHD+,Integrated,Integrated,0,99990
+Dell,Intel,Core Ultra,5,16,512GB,14,2.5K,Integrated,Integrated,0,86999
+Acer,Intel,Core i,i5,16,512GB,16,WUXGA,Integrated,Integrated,0,86999
+Acer,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,112599
+Asus,Intel,Core,5,16,512GB,16,FHD+,Integrated,Integrated,0,104990
+Lenovo,Intel,Core i,i5,16,512GB,15.6,Full HD,NVIDIA,RTX 4050,6,110999
+HP,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,84990
+HP,AMD,Ryzen,3,8,512GB,15.6,FHD,No GPU,No GPU,0,45499
+Dell,Intel,Core i,i3,16,512GB,15.6,FHD,Integrated,Integrated,0,56990
+Lenovo,AMD,Ryzen,7,16,1TB,15.3,WQXGA,NVIDIA,RTX 5060,8,179999
+HP,Intel,Core,5,16,512GB,15.6,FHD,Integrated,Integrated,0,66499
+HP,Intel,Core Ultra,5,16,1TB,14,3K,Integrated,Integrated,0,99999
+ASUS,AMD,Ryzen,9,16,1TB,16,FHD+,NVIDIA,RTX 5050,0,173990
+HP,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,79990
+Lenovo,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,78499
+HP,AMD,Ryzen,7,24,1TB,15.6,FHD,Integrated,Integrated,0,109999
+HP,Intel,Core Ultra,7,16,512GB,14,Full HD,Integrated,Integrated,0,79999
+HP,AMD,Ryzen,7,16,512GB,15.6,Full HD,Integrated,Integrated,0,61990
+Dell,AMD,Ryzen,5,16,512GB,15.6,FHD,Integrated,Integrated,0,54990
+Samsung,Intel,Core Ultra,7,16,512GB,15.6,FHD,Integrated,Integrated,0,94990
+Acer,Intel,Core Ultra,7,16,1TB,16,OLED,Integrated,Integrated,0,174990
+Acer,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,112999
+Dell,AMD,Ryzen AI,5,16,512GB,16,2K,Integrated,Integrated,0,72950
+ASUS,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,78990
+Dell,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,70490
+Lenovo,Intel,Core Ultra,7,32,1TB,14,OLED,Integrated,Integrated,0,107999
+HP,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,67499
+HP,Intel,Core i,i7,24,1TB,15.6,FHD,Integrated,Integrated,0,119990
+HP,AMD,Ryzen,7,16,512GB,15.6,Full HD,Integrated,Integrated,0,78990
+HP,Intel,Core,5,16,512GB,15.6,Full HD,Integrated,Integrated,0,64999
+Lenovo,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,99999
+HP,AMD,Ryzen AI,5,16,512GB,14,FHD,Integrated,Integrated,0,60999
+Acer,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,63999
+ASUS,Intel,Core i,i7,16,1TB,16,2.5k,Integrated,Integrated,0,191990
+Acer,Intel,Core i,i7,16,1TB,16,WQXGA,Integrated,Integrated,0,181990
+HP,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,74499
+Lenovo,Intel,Core Ultra,5,16,512GB,14,OLED,Integrated,Integrated,0,99999
+Lenovo,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,67499
+Lenovo,Intel,Core i,i7,16,512GB,15.3,WUXGA,Integrated,Integrated,0,80999
+ASUS,Intel,Core Ultra,5,16,512GB,14,WUXGA,Integrated,Integrated,0,85990
+MSI,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,55990
+MSI,AMD,Ryzen,7,16,512GB,15.6,Full HD,Integrated,Integrated,0,59990
+MSI,AMD,Ryzen,9,16,512GB,15.6,Full HD,NVIDIA,RTX 4060,8,134990
+ASUS,Intel,Core Ultra,7,32,1TB,14,3K,Integrated,Integrated,0,135990
+ASUS,Intel,Core i,i7,16,1TB,16,FHD+,NVIDIA,RTX 5060,8,173990
+ASUS,AMD,Ryzen,9,16,1TB,16,2.5k,NVIDIA,RTX 5060,8,199990
+ASUS,Intel,Core Ultra,9,16,1TB,16,2.5k,NVIDIA,RTX 5060,8,227990
+ASUS,Intel,Core Ultra,9,32,1TB,16,2.5k,NVIDIA,RTX 5070,8,275990
+Acer,AMD,Ryzen,5,16,512GB,15.6,Full HD,Integrated,Integrated,0,56999
+Acer,Intel,Core i,i7,16,512GB,15.6,Full HD,Integrated,Integrated,0,75990
+Acer,AMD,Ryzen,7,16,512GB,15.6,Full HD,Integrated,Integrated,0,64999
+Samsung,Intel,Core,5,16,512GB,15.6,FHD,Integrated,Integrated,0,84990
+Lenovo,AMD,Ryzen,7,16,512GB,13.3,WUXGA,Integrated,Integrated,0,77999
+Lenovo,Intel,Core i,i5,16,512GB,15.3,WUXGA,Integrated,Integrated,0,68999
+ASUS,AMD,Ryzen,5,8,512GB,14,FHD,Integrated,Integrated,0,46990
+ASUS,Intel,Core i,i5,16,512GB,16,WUXGA,Integrated,Integrated,0,68990
+ASUS,Intel,Core Ultra,9,32,2TB,16,2.5K,Integrated,Integrated,0,399990
+ASUS,Intel,Core Ultra,9,32,1TB,16,2.5K,Integrated,Integrated,0,279990
+ASUS,Intel,Core Ultra,9,32,2TB,16,2.5K,Integrated,Integrated,0,359990
+HP,AMD,Ryzen AI,7,16,512GB,13.3,WQXGA,Integrated,Integrated,0,85990
+HP,Intel,Core Ultra,5,16,512GB,14,3K,Integrated,Integrated,0,120000
+Samsung,Intel,Core Ultra,7,16,512GB,14,WQXGA+,Integrated,Integrated,0,139990
+Samsung,Intel,Core Ultra,5,16,512GB,14,WQXGA+,Integrated,Integrated,0,131990
+Samsung,Intel,Core Ultra,5,16,512GB,15.6,FHD,Integrated,Integrated,0,114990
+Samsung,Intel,Core Ultra,7,16,512GB,15.6,FHD,Integrated,Integrated,0,122990
+Samsung,Intel,Core i,i5    ,16,512GB,13.3,FHD,Integrated,Integrated,0,104990
+Lenovo,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,88999
+Acer,Intel,Core Ultra,5,16,512GB,14,OLED,Integrated,Integrated,0,85990
+ASUS,Intel,Core Ultra,5,16,1TB,14,OLED,Integrated,Integrated,0,125990
+ASUS,Intel,Core Ultra,5,16,512GB,16,WUXGA,Integrated,Integrated,0,77990
+HP,Intel,Core,7,24,1TB,16,2K,Integrated,Integrated,0,137999
+Apple,Apple,A18 Pro,None,8,512GB,13,Liquid Retina,No GPU,No GPU,0,73490
+Apple,Apple,A18 Pro,None,8,256GB,13,Liquid Retina,No GPU,No GPU,0,66490
+Apple,Apple,A18 Pro,None,8,512GB,13,Liquid Retina,No GPU,No GPU,0,73490
+Apple,Apple,A18 Pro,None,8,256GB,13,Liquid Retina,No GPU,No GPU,0,66490
+Apple,Apple,A18 Pro,None,8,512GB,13,Liquid Retina,No GPU,No GPU,0,73490
+Apple,Apple,A18 Pro,None,8,512GB,13,Liquid Retina,No GPU,No GPU,0,73490
+Apple,Apple,A18 Pro,None,8,256GB,13,Liquid Retina,No GPU,No GPU,0,66490
+Apple,Apple,M5,None,16,512GB,15,Liquid Retina,No GPU,No GPU,0,137990
+Apple,Apple,M5,None,16,512GB,15,Liquid Retina,No GPU,No GPU,0,137990
+Apple,Apple,M5,None,16,512GB,15,Liquid Retina,No GPU,No GPU,0,137990
+Apple,Apple,M5,None,16,512GB,15,Liquid Retina,No GPU,No GPU,0,137990
+Apple,Apple,M5,None,16,1TB,13,Liquid Retina,No GPU,No GPU,0,128690
+Apple,Apple,M5,None,16,512GB,13,Liquid Retina,No GPU,No GPU,0,109990
+Apple,Apple,M5,None,16,512GB,13,Liquid Retina,No GPU,No GPU,0,109990
+Apple,Apple,M5,None,16,512GB,13,Liquid Retina,No GPU,No GPU,0,109990
+HP,Intel,Core i,i3,8,512GB,15.6,FHD,Integrated,Integrated,0,48999
+Apple,Apple,M5,None,16,512GB,13,Liquid Retina,No GPU,No GPU,0,109990
+ASUS,AMD,Ryzen AI,5,16,512GB,16,FHD+,Integrated,Integrated,0,81990
+Samsung,Intel,Core Ultra,7,32,1TB,16,WQXGA+,Integrated,Integrated,0,219990
+Samsung,Intel,Core Ultra,7,16,1TB,14,WQXGA+,Integrated,Integrated,0,184990
+Samsung,Intel,Core Ultra,7,32,1TB,16,WQXGA+,Integrated,Integrated,0,242990
+Samsung,Intel,Core Ultra,7,32,1TB,16,WQXGA+,Integrated,Integrated,0,417190
+Samsung,Intel,Core Ultra,7,16,1TB,16,WUXGA,Integrated,Integrated,0,198790
+Lenovo,AMD,Ryzen AI,7,32,1TB,14,OLED,Integrated,Integrated,0,116999
+Lenovo,AMD,Ryzen,3,8,512GB,15.6,FHD,Integrated,Integrated,0,43999
+Acer,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,90599
+Lenovo,AMD,Ryzen,5,12,512GB,15.6,FHD,Integrated,Integrated,0,70999
+HP,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,60499
+HP,Intel,Core,3,8,512GB,15.6,FHD,Integrated,Integrated,0,47999
+ASUS,AMD,Ryzen,7,16,512GB,16,FHD+,Integrated,Integrated,0,106990
+ASUS,Intel,Core i,i3,16,512GB,15.6,FHD,Integrated,Integrated,0,53990
+ASUS,Intel,Core i,i3,8,512GB,15.6,FHD,Integrated,Integrated,0,47990
+Dell,Intel,Core,5,16,512GB,14,Full HD,Integrated,Integrated,0,64999
+HP,Intel,Core Ultra,5,16,512GB,15.6,FHD,Integrated,Integrated,0,71999
+ASUS,AMD,Ryzen,5,16,512GB,14,Full HD,Integrated,Integrated,0,48990
+Lenovo,Intel,Core,9,32,1TB,14,WUXGA,Integrated,Integrated,0,105990
+Lenovo,Intel,Core i,i7,32,1TB,15.6,Full HD,NVIDIA,RTX 5060,8,147999
+ASUS,Intel,Core i,i3,8,512GB,15.6,Full HD,Integrated,Integrated,0,47990
+ASUS,AMD,Ryzen,3,8,512GB,14,FHD,Integrated,Integrated,0,43990
+Dell,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,73499
+Lenovo,AMD,Ryzen AI,7,24,1TB,14,OLED,Integrated,Integrated,0,99990
+Dell,Intel,Core i,i3,8,512GB,14,FHD+,Integrated,Integrated,0,42999
+Asus,AMD,Ryzen,5,8,512GB,14,FHD,Integrated,Integrated,0,43990
+Lenovo,AMD,Ryzen,5,16,512GB,15.6,FHD,Integrated,Integrated,0,42990
+HP,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,59490
+Lenovo,Intel,Core i,i7,16,1TB,15.6,FHD,Integrated,Integrated,0,130999
+Lenovo,Intel,Core i,i7,32,1TB,15.6,FHD,Integrated,Integrated,0,147999
+Lenovo,Intel,Core i,i5,16,1TB,14,OLED,Integrated,Integrated,0,65999
+Acer,Intel,Core i,i7,16,512GB,15.6,Full HD,Integrated,Integrated,0,54990
+Acer,Intel,Core Ultra,5,16,512GB,14,WUXGA,Integrated,Integrated,0,57990
+Samsung,Intel,Core Ultra,7,16,1TB,15.6,Full HD,Integrated,Integrated,0,103990
+Samsung,Intel,Core Ultra,7,32,1TB,15.6,Full HD,Integrated,Integrated,0,119990
+Samsung,Intel,Core Ultra,5,16,512GB,15.6,FHD,Integrated,Integrated,0,81990
+ASUS,Intel,Core,5,16,512GB,14,WUXGA,Integrated,Integrated,0,65990
+ASUS,AMD,Ryzen,7,16,1TB,16,FHD+,Integrated,Integrated,0,111990
+Dell,Intel,Core,7,16,1TB,16,WQXGA,Integrated,Integrated,0,149990
+Acer,Intel,Core Ultra,7,16,1TB,14,OLED,Integrated,Integrated,0,88990
+Acer,Intel,Core Ultra,7,16,1TB,16,OLED,Integrated,Integrated,0,149990
+Acer,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,72999
+Lenovo,AMD,Ryzen,5,8,512GB,15.6,FHD,Integrated,Integrated,0,41499
+HP,Intel,Core i,i7,16,512GB,15.6,FHD,Integrated,Integrated,0,89990
+Lenovo,Intel,Core i,i3,8,512GB,14,Full HD,Integrated,Integrated,0,48499
+HP,AMD,Ryzen,7,16,512GB,15.6,Full HD,Integrated,Integrated,0,53990
+ASUS,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,49990
+Dell,Intel,Core i,i7,16,1TB,15.6,FHD,Integrated,Integrated,0,95999
+Lenovo,AMD,Ryzen,7,24,512GB,15.6,FHD,Integrated,Integrated,0,71990
+Acer,Intel,Core Ultra,5,16,512GB,14,WUXGA,Integrated,Integrated,0,61999
+HP,Intel,Core Ultra,5,16,512GB,15.6,FHD,Integrated,Integrated,0,70499
+Acer,AMD,Ryzen,5,16,512GB,15.6,Full HD,Integrated,Integrated,0,60999
+HP,Intel,Core i,i3,8,512GB,15.6,Full HD,Integrated,Integrated,0,41990
+HP,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,59999
+HP,AMD,Ryzen,5,16,512GB,16,WUXGA,Integrated,Integrated,0,59999
+Lenovo,Intel,Core Ultra,5,32,1TB,14,OLED,Integrated,Integrated,0,119999
+Lenovo,Intel,Core i,i3,8,512GB,15.6,FHD,Integrated,Integrated,0,41999
+Lenovo,AMD,Ryzen,7,24,1TB,14,OLED,Integrated,Integrated,0,93999
+ASUS,Intel,Core i,i5,16,1TB,16,FHD+,NVIDIA,RTX 5050,8,119990
+MSI,Intel,Core i,i5,16,512GB,15.6,Full HD,NVIDIA,RTX 3050,4,76990
+MSI,Intel,Core i,i7,16,512GB,15.6,Full HD,NVIDIA,RTX 3050,4,89990
+MSI,Intel,Core,7,16,1TB,15.6,Full HD,NVIDIA,RTX 5050,8,115990
+MSI,Intel,Core,7,16,1TB,15.6,Full HD,NVIDIA,RTX 5060,8,125990
+Lenovo,AMD,Ryzen,5,16,512GB,15.6,FHD,Integrated,Integrated,0,40990
+Acer,AMD,Ryzen,3,8,512GB,15.6,Full HD,Integrated,Integrated,0,49999
+ASUS,Intel,Core i,i7,16,1TB,16,FHD+,Integrated,Integrated,0,113990
+Lenovo,Intel,Core Ultra,5,16,1TB,14,WUXGA,Integrated,Integrated,0,88999
+Dell,Intel,Core i,i7,16,1TB,15.6,FHD,Integrated,Integrated,0,93990
+Dell,Intel,Core i,i5,16,512GB,14,FHD+,Integrated,Integrated,0,78000
+Dell,AMD,Ryzen,5,8,512GB,15.6,FHD,Integrated,Integrated,0,42999
+Acer,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,51999
+ASUS,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,66990
+HP,AMD,Ryzen AI,5,16,512GB,13.3,WQXGA,Integrated,Integrated,0,78999
+HP,AMD,Ryzen AI,7,16,512GB,16,2K,Integrated,Integrated,0,79499
+HP,AMD,Ryzen AI,5,16,512GB,16,2K,Integrated,Integrated,0,72499
+HP,Intel,Core Ultra,7,16,512GB,14,3K,Integrated,Integrated,0,138999
+Dell,Intel,Core i,i5,16,1TB,15.6,FHD,Integrated,Integrated,0,83999
+Acer,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,79998
+Apple,Apple,M2,None,16,256GB,13.6,Liquid Retina,No GPU,No GPU,0,69900
+Acer,Intel,Core i,i3,8,512GB,15.6,FHD,No GPU,No GPU,0,39999
+Dell,Intel,Core i,i7,16,1TB,15.6,FHD,Integrated,Integrated,0,93990
+Dell,Intel,Core i,i5,16,512GB,14,FHD+,Integrated,Integrated,0,78000
+Dell,AMD,Ryzen,5,8,512GB,15.6,FHD,Integrated,Integrated,0,42999
+Acer,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,51999
+ASUS,AMD,Ryzen,7,16,512GB,15.6,FHD,Integrated,Integrated,0,66990
+HP,AMD,Ryzen AI,5,16,512GB,13.3,WQXGA,Integrated,Integrated,0,78999
+HP,AMD,Ryzen AI,7,16,512GB,16,2K,Integrated,Integrated,0,79499
+HP,AMD,Ryzen AI,5,16,512GB,16,2K,Integrated,Integrated,0,72499
+HP,Intel,Core Ultra,7,16,512GB,14,3K,Integrated,Integrated,0,138999
+Dell,Intel,Core i,i5,16,1TB,15.6,FHD,Integrated,Integrated,0,83999
+Acer,Intel,Core i,i5,16,512GB,15.6,Full HD,Integrated,Integrated,0,79998
+Apple,Apple,M2,None,16,256GB,13.6,Liquid Retina,No GPU,No GPU,0,69900
+Acer,Intel,Core i,i3,8,512GB,15.6,FHD,No GPU,No GPU,0,39999
+ASUS,Intel,Core,5,16,512GB,16,FHD+,Integrated,Integrated,0,74990
+HP,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,64559
+Samsung,Intel,Core Ultra,7,16,512GB,16,WQXGA+,Integrated,Integrated,0,149990
+Samsung,Intel,Core Ultra,7,32,1TB,16,WQXGA+,Integrated,Integrated,0,195990
+Samsung,Intel,Core Ultra,7,16,512GB,16,WQXGA+,Integrated,Integrated,0,163990
+Samsung,Intel,Core Ultra,5,16,512GB,16,WQXGA+,Integrated,Integrated,0,155990
+Samsung,Intel,Core Ultra,7,32,1TB,15.6,FHD,Integrated,Integrated,0,154990
+Samsung,Intel,Core Ultra,7,16,1TB,15.6,FHD,Integrated,Integrated,0,138990
+Dell,Intel,Core i,i3,8,512GB,15.6,FHD,Integrated,Integrated,0,38999
+HP,AMD,Ryzen,5,16,512GB,15.6,FHD,Integrated,Integrated,0,41990
+Lenovo,Intel,Core i,i5,12,512GB,15.6,FHD,NVIDIA,RTX2050,4,64990
+Dell,Intel,Core i,i5,16,1TB,15.6,FHD,Integrated,Integrated,0,58990
+Lenovo,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,57999
+HP,Intel,Core i,i5,16,512GB,15.6,Full HD,NVIDIA,RTX 3050,6,72758
+Acer,AMD,Ryzen,7,16,512GB,15.6,Full HD,NVIDIA,RTXTM 4050,6,80990
+Dell,Intel,Core i,i5,16,512GB,14,FHD,Integrated,Integrated,0,66999
+HP,Intel,Core i,i5,16,512GB,15.6,FHD,Integrated,Integrated,0,82990
+Asus,Intel,Core i,i7,16,1TB,16,FHD,Integrated,Integrated,0,113990
+Apple,Apple,M4 Pro,None,24,512GB,16.2,Liquid Retina XDR,No GPU,No GPU,0,229900
+Apple,Apple,M4 Pro,None,24,512GB,16.2,Liquid Retina XDR,No GPU,No GPU,0,229900
+Apple,Apple,M4,None,16,512GB,14.2,Liquid Retina XDR,No GPU,No GPU,0,136990
+Apple,Apple,M4,None,16,1TB,14.2,Liquid Retina XDR,No GPU,No GPU,0,159990
+Apple,Apple,M4 Pro,None,24,512GB,14.2,Liquid Retina XDR,No GPU,No GPU,0,189900
+Apple,Apple,M4 Pro,None,48,512GB,16.2,Liquid Retina XDR,No GPU,No GPU,0,275399
+Apple,Apple,M4,None,24,1TB,14.2,Liquid Retina XDR,No GPU,No GPU,0,199500
+Apple,Apple,M3,None,16,256GB,15.3,Liquid Retina,No GPU,No GPU,0,78334
+Apple,Apple,M4 Max,None,36,1TB,16.2,Liquid Retina XDR,No GPU,No GPU,0,332500
+Apple,Apple,M4 Pro,None,24,1TB,14.2,Liquid Retina XDR,No GPU,No GPU,0,215900
+Apple,Apple,M4,None,16,1TB,14.2,Liquid Retina XDR,No GPU,No GPU,0,170900
+Apple,Apple,M3,None,16,256GB,15.3,Liquid Retina,No GPU,No GPU,0,78334
+Apple,Apple,M4 Max,None,48,1TB,16.2,Liquid Retina XDR,No GPU,No GPU,0,379905
+Apple,Apple,M4,None,16,512GB,14.2,Liquid Retina XDR,No GPU,No GPU,0,152900
+Apple,Apple,M4 Pro,None,24,512GB,14.2,Liquid Retina XDR,No GPU,No GPU,0,189900
+Apple,Apple,M2,None,16,256GB,13.6,Liquid Retina,No GPU,No GPU,0,72990
+Apple,Apple,M3,None,8,512GB,15.3,Liquid Retina,No GPU,No GPU,0,99590
+Apple,Apple,M3,None,8,512GB,15.3,Liquid Retina,No GPU,No GPU,0,99590
+Apple,Apple,M3,None,16,512GB,15.3,Liquid Retina,No GPU,No GPU,0,92776
+Apple,Apple,M3,None,16,512GB,15.3,Liquid Retina,No GPU,No GPU,0,92776
+Apple,Apple,M3,None,16,512GB,15.3,Liquid Retina,No GPU,No GPU,0,92776
+Apple,Apple,M5,None,24,1TB,15,Liquid Retina,No GPU,No GPU,0,169990
+Apple,Apple,M5,None,16,1TB,15,Liquid Retina,No GPU,No GPU,0,151690
+Apple,Apple,M5,None,24,1TB,15,Liquid Retina,No GPU,No GPU,0,169990
+Apple,Apple,M5,None,16,1TB,15,Liquid Retina,No GPU,No GPU,0,151690
+Apple,Apple,M5,None,24,1TB,13,Liquid Retina,No GPU,No GPU,0,146990
+Apple,Apple,M5,None,24,1TB,13,Liquid Retina,No GPU,No GPU,0,146990
+Apple,Apple,M5,None,16,1TB,13,Liquid Retina,No GPU,No GPU,0,128690
+Apple,Apple,M5,None,24,1TB,13,Liquid Retina,No GPU,No GPU,0,146990
+Apple,Apple,M5,None,16,1TB,13,Liquid Retina,No GPU,No GPU,0,128690
+Apple,Apple,M5,None,24,1TB,13,Liquid Retina,No GPU,No GPU,0,146990
+Apple,Apple,M5,None,16,1TB,13,Liquid Retina,No GPU,No GPU,0,128690
+HP,Intel,Core Ultra,7,32,1TB,14,3K,Integrated,Integrated,0,121999
+ASUS,Intel,Core Ultra,9,32,1TB,14,OLED,Integrated,Integrated,0,137990
+Apple,Apple,M5,None,16,512GB,14,Liquid Retina XDR,No GPU,No GPU,0,152900
+Dell,AMD,Ryzen,3,8,512GB,15.6,FHD,Integrated,Integrated,0,34499
