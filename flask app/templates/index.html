@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laptop Price Predictor</title>
+</head>
+<body>
+
+<h2>Laptop Price Predictor</h2>
+
+<form id="predictionForm">
+
+    <input type="text" name="Brand" placeholder="Brand">
+
+    <input type="text" name="processor_brand" placeholder="Processor Brand">
+
+    <input type="text" name="processor_series" placeholder="Processor Series">
+
+    <input type="text" name="processor_tier" placeholder="Processor Tier">
+
+    <input type="text" name="ram" placeholder="RAM">
+
+    <input type="text" name="storage" placeholder="Storage">
+
+    <input type="number" step="0.1" name="screen_size" placeholder="Screen Size">
+
+    <input type="text" name="display_type" placeholder="Display Type">
+
+    <input type="text" name="gpu_brand" placeholder="GPU Brand">
+
+    <input type="text" name="gpu_model" placeholder="GPU Model">
+
+    <input type="text" name="vram" placeholder="VRAM">
+
+    <button type="submit">Predict</button>
+
+</form>
+
+<h3 id="result"></h3>
+
+<script>
+document.getElementById("predictionForm").addEventListener("submit", async function(e){
+
+    e.preventDefault();
+
+    const formData = new FormData(this);
+
+    const data = {};
+
+    formData.forEach((value, key) => {
+        data[key] = isNaN(value) || value === ""
+            ? value
+            : Number(value);
+    });
+
+    const response = await fetch("/predict", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(data)
+    });
+
+    const result = await response.json();
+
+    document.getElementById("result").innerText =
+        "Predicted Price: ₹" + result.predicted_price;
+});
+</script>
+
+</body>
+</html>
