@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laptop Price Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">Laptop Price Predictor</div>
+    <div class="nav-links">
+        <a href="/" class="nav-link {% if request.path == '/' %}active{% endif %}">Predict</a>
+        <a href="/analysis" class="nav-link {% if request.path == '/analysis' %}active{% endif %}">Analysis</a>
+        <a href="/about" class="nav-link {% if request.path == '/about' %}active{% endif %}">About</a>
+    </div>
+</nav>
+
+{% block content %}{% endblock %}
+
+</body>
+</html>

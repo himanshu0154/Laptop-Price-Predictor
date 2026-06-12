@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-center">
+    <div class="container">
+        <div class="header">
+            <h2>About this project</h2>
+            <p class="subtitle">Laptop Price Predictor</p>
+        </div>
+
+        <div class="about-content">
+            <p>This project predicts laptop prices based on specifications like brand, processor, RAM, storage, display, and GPU. The data was scraped from Vijay Sales, cleaned, and used to train a Linear Regression model.</p>
+
+            <h3>Tech Stack</h3>
+            <ul>
+                <li>Python, Pandas, NumPy</li>
+                <li>scikit-learn (preprocessing pipeline + Linear Regression)</li>
+                <li>Flask (backend + API)</li>
+                <li>Matplotlib & Seaborn (exploratory data analysis)</li>
+                <li>Plotly (interactive visualizations on the web app)</li>
+            </ul>
+
+            <h3>Links</h3>
+            <p><a href="https://github.com/himanshu0154" target="_blank">GitHub Repository</a></p>
+            <p><a href="https://www.kaggle.com/datasets/himanshusingh4441/cleaned-laptop-dataset" target="_blank">Dataset on Kaggle</a></p>
+        </div>
+    </div>
+</div>
+{% endblock %}

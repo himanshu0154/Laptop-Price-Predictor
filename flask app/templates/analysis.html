@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="header">
+    <h2>Dataset Analysis</h2>
+    <p class="subtitle">Insights from the laptop dataset</p>
+</div>
+
+<div class="plot-grid">
+    <div class="plot-card">
+        <iframe src="{{ url_for('static', filename='plots/brand_dist.html') }}" width="100%" height="400" frameborder="0"></iframe>
+    </div>
+    <div class="plot-card">
+        <iframe src="{{ url_for('static', filename='plots/gpu_share.html') }}" width="100%" height="400" frameborder="0"></iframe>
+    </div>
+    <div class="plot-card">
+        <iframe src="{{ url_for('static', filename='plots/price_dist.html') }}" width="100%" height="400" frameborder="0"></iframe>
+    </div>
+    <div class="plot-card">
+        <iframe src="{{ url_for('static', filename='plots/avg_price_brand.html') }}" width="100%" height="400" frameborder="0"></iframe>
+    </div>
+    <div class="plot-card">
+        <iframe src="{{ url_for('static', filename='plots/avg_price_gpu.html') }}" width="100%" height="400" frameborder="0"></iframe>
+    </div>
+    <div class="plot-card">
+        <iframe src="{{ url_for('static', filename='plots/price_ram_box.html') }}" width="100%" height="400" frameborder="0"></iframe>
+    </div>
+</div>
+{% endblock %}
