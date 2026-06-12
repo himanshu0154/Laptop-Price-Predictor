@@ -201,3 +201,25 @@ a {
 .about-content li {
     margin-bottom: 0.5rem;
 }
+
+@media (max-width: 600px) {
+    form {
+        grid-template-columns: 1fr;
+    }
+    
+    .plot-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .navbar {
+        padding: 1rem;
+    }
+    
+    .nav-links {
+        gap: 12px;
+    }
+    
+    .container {
+        padding: 1.5rem;
+    }
+}
