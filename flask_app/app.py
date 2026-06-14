@@ -6,10 +6,10 @@ import numpy as np
 
 app = Flask(__name__)
 
-with open(r'flask app/model.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-df = pd.read_csv('datasets/laptops_cleaned.csv', dtype={'processor_tier': str, 'ram': str, 'storage': str, 'vram': str})
+df = pd.read_csv('laptops_cleaned.csv', dtype={'processor_tier': str, 'ram': str, 'storage': str, 'vram': str})
 
 @app.route('/')
 def home():
